@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 print ("Hello World pisun!")
 print ("Study HARD!")
+=======
+print ("Hello World!")
+print ("How are you?")
+>>>>>>> master-2
