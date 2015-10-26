@@ -1,1 +1,2 @@
 print ("Hello World pisun!")
+print ("Study HARD!")
