@@ -1,0 +1,1 @@
+print("Work Hard to be a Proger!!!")
